@@ -11,6 +11,8 @@ creator:
 description:
 - '"A number of the recipes suggest the use of Cottolene."--Introduction'
 - 'Cottolene at Wikipedia: http://en.wikipedia.org/wiki/Cottolene'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31534#Fifty-Two-Sunday-Dinners--A-Book-of-Recipes
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text

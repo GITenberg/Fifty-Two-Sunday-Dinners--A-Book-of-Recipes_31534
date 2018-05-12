@@ -1,0 +1,30 @@
+_repo: Fifty-Two-Sunday-Dinners--A-Book-of-Recipes_31534
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31534-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hiller, Elizabeth O.
+    gutenberg_agent_id: '35304'
+    url: http://www.gutenberg.org/2009/agents/35304
+description:
+- '"A number of the recipes suggest the use of Cottolene."--Introduction'
+- 'Cottolene at Wikipedia: http://en.wikipedia.org/wiki/Cottolene'
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31534'
+  lccn: '13016880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Menus'
+- !lcsh 'Dinners and dining'
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: 'Fifty-Two Sunday Dinners: A Book of Recipes'
+url: http://www.gutenberg.org/ebooks/31534
